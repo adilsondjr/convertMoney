@@ -4,3 +4,4 @@ now.json
 firebase-secret.json
 .now
 node_modules
+coverage
